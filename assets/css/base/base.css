@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Poppins:wght@200;300&family=Sora&family=Varela+Round&display=swap');
+@import url(_reset.css);
+@import url(_variaveis.css);
+
+:root{
+	font-family: var(--fonte-padrao);
+	box-sizing: content-box;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	min-height: 100vh;
+	background-color: var(--color4);
+}
