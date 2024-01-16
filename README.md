@@ -1,6 +1,6 @@
 # Minimal Blog Card
 
-Construção de um card simples para blog. Ela foi construída para participar do desafio proposto do site [devchallenges.io](https://devchallenges.io). Vale ressaltar que esta é uma parte do projeto, o backend da aplicação.
+Construção de um card simples para blog. Ela foi construída para participar do desafio proposto do site [devchallenges.io](https://devchallenges.io).
 
 Para conferir o resultado, clique [aqui](https://minimal-blog-card-steel.vercel.app/).
 
