@@ -4,7 +4,7 @@ Construção de um card simples para blog. Ela foi construída para participar d
 
 Para conferir o resultado, clique [aqui](https://minimal-blog-card-steel.vercel.app/).
 
-A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/27).
+A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/minimal-blog-card).
 
 ## Experiência
 
